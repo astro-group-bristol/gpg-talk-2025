@@ -244,10 +244,10 @@
   #[
     #set text(size: 30pt)
     #set align(center)
-    Aitchkey ekey elkey elkey opan aitchkey ohkey wopan akey arkey epan wokey ohkey upan?
+    Aitchkey ekey elkey elkey opan aitchkey ohkey wopan akey arkey epan wykey ohkey upan?
 
     #uncover("2-")[
-      #hl[Aitch]key #hl[e]key #hl[el]key #hl[el]key #hl[o]pan #hl[aitch]key #hl[oh]key #hl[wo]pan #hl[a]key #hl[ar]key #hl[e]pan #hl[wo]key #hl[oh]key #hl[u]pan?
+      #hl[Aitch]key #hl[e]key #hl[el]key #hl[el]key #hl[o]pan #hl[aitch]key #hl[oh]key #hl[wo]pan #hl[a]key #hl[ar]key #hl[e]pan #hl[wy]key #hl[oh]key #hl[u]pan?
     ]
 
     #uncover("3-")[Hello how are you?]
@@ -259,7 +259,7 @@
     - (Special treatment for `w` to avoid giving the game away)
   ]
 
-  #uncover("5-")[#cbox[This is an *asymmetric cryptosystem*, a variation of *pig latin* and related *language games*.]]
+  #uncover("5-")[#cbox[This is an *symmetric cryptosystem*, a variation of *pig latin* and related *language games*.]]
 ]
 
 #sl(title: "Cryptography for security")[
