@@ -1,6 +1,6 @@
 #import "@preview/polylux:0.4.0": *
 
-#let HANDOUT_MODE = false
+#let HANDOUT_MODE = true
 #enable-handout-mode(HANDOUT_MODE)
 
 // colour configurations
